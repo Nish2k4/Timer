@@ -1,0 +1,4 @@
+#Fri Feb 05 21:41:30 EST 2021
+base.0=/Users/dsp/AndroidStudioProjects/stopwatch_app/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
